@@ -4,7 +4,6 @@
 
 <h3 align="center">A little more about me... <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>
 
-<div align="center">
   
 I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
 
@@ -13,9 +12,8 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: dimas@dicoding.com
 - ⚡ Fun fact: Father of a daughter
-
-
-</div>
+<div>
+  
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
@@ -25,6 +23,7 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
   <br>
   <br>
   
+</div>
 <div align="center"> 
   <a href="mailto:dindafarrasg@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
