@@ -5,13 +5,13 @@
 <h3 align="center">A little more about me... <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> </h3>
 
   
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
+I'm currently learning Software Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build Front-End Apps (Web, Android) and Back-End Service.
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
+- 🔭 I’m currently a student at Amikom University Yogyakarta majoring in Computer Science
+- 🌱 I’m currently learning about react js and back-end apps
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Father of a daughter
+- 📫 How to reach me: jonathanadisaputro99@gmail.com
+- ⚡ Fun fact: Nothing
 <div>
   
 ### Tech Stack
@@ -34,15 +34,4 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
   <a href="https://www.instagram.com/nda.fg/" target="_blank">
      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
 </div>
-
-<hr>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<div align=center>
-    <a href="https://github.com/dindafarras">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dindafarras&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dindafarras&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</div>
-
 <hr>
